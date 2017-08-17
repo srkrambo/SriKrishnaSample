@@ -1,0 +1,15 @@
+PODS:
+  - MBProgressHUD (1.0.0)
+  - SpinKit (1.2.0)
+
+DEPENDENCIES:
+  - MBProgressHUD
+  - SpinKit (~> 1.1)
+
+SPEC CHECKSUMS:
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  SpinKit: 65906a8b534a4e14cbfd3f8b0b6c329131faef4a
+
+PODFILE CHECKSUM: e837899e7beafb697299b4adceef8af7279513a8
+
+COCOAPODS: 1.0.1
